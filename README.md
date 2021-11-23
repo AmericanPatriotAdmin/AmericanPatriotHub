@@ -1,2 +1,1 @@
-# AmericanPatriotHub
-Helping patriots get organized
+To contribute to this project ...
